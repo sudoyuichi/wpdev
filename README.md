@@ -1,5 +1,8 @@
 # wpdev
 
+## フォルダの作成
+mkdir wpdev
+
 ## 環境を使う。
 docker-compose up -d
 
